@@ -30,16 +30,16 @@ Below are the factors and the reasoning on narrowing down to 4 factors for our a
 # Key Results on Conjoint Analysis
 Since the first level of each attribute is specified to be 0 (a1=0 in options of Conjoint analysis),
 the results of the conjoint analysis demonstrate the following:
-• **Android** is defined to be preferred over iOS, with iOS’s average part-worth is -0.085
-• **Fingerprint unlock feature** is preferred over Face unlock feature on an average, with the part-worth of 0.169 for Fingerprint unlock feature
-• **Price below $500** is preferred over price ranges $501-$1000 and above $1001. Price below $500 has an average part-worth of 0.247 and price above $1001 has an average part-worth of -0.575.
-• **Storage 128GB** is preferred over storages 64GB and 256GB on an average. Storage of 128GB has a part-worth of 0.153 and storage 256GB has a part-worth of -0.108.
+• **Android** is defined to be preferred over iOS, with iOS’s average part-worth is -0.085  
+• **Fingerprint unlock feature** is preferred over Face unlock feature on an average, with the part-worth of 0.169 for Fingerprint unlock feature  
+• **Price below $500** is preferred over price ranges $501-$1000 and above $1001. Price below $500 has an average part-worth of 0.247 and price above $1001 has an average part-worth of -0.575.  
+• **Storage 128GB** is preferred over storages 64GB and 256GB on an average. Storage of 128GB has a part-worth of 0.153 and storage 256GB has a part-worth of -0.108.  
 
 ![alt text](https://github.com/rashesh2308/ConjointAnalysis/blob/main/images/Screen%20Shot%202021-03-05%20at%2011.22.24%20AM.png)
   
-From the results mentioned above we can conclude that **Profile 3 – Android, Fingerprint unlock feature, Price below $500, Storage 128GB – is the most preferred** set of characteristics for 100 people we interviewed for smartphones.   
-**The least preferred profile is Profile 10 – OS-iOS, Face unlock feature, Price above $1001, Storage 256 GB.**  
-From the importance of analysed attributes, **storage is defined to be the most important factor** to influence the choice of the customers (36.766%), the price is second most important (33.476%), while OS and unlock feature are 18.277% and 11.481% respectively.  
+From the results mentioned above we can conclude that **Profile 3 – Android, Fingerprint unlock feature, Price below $500, Storage 128GB – is the most preferred** set of characteristics for 100 people we interviewed for smartphones.     
+**The least preferred profile is Profile 10 – OS-iOS, Face unlock feature, Price above $1001, Storage 256 GB.**   
+From the importance of analysed attributes, **storage is defined to be the most important factor** to influence the choice of the customers (36.766%), the price is second most important (33.476%), while OS and unlock feature are 18.277% and 11.481% respectively.   
 
 ![alt text](https://github.com/rashesh2308/ConjointAnalysis/blob/main/images/Screen%20Shot%202021-03-05%20at%2011.22.45%20AM.png)
   
@@ -48,14 +48,15 @@ Let’s assume that **Product 4 here is the new hypothetical product** which we 
 
 ![alt text](https://github.com/rashesh2308/ConjointAnalysis/blob/main/images/Screen%20Shot%202021-03-05%20at%2011.23.39%20AM.png)
 
-Product 1 which consists of an Android operating system, fingerprint unlock, a 64 GB storage, and a price range of $500 - $1000 is the most preferred. It has a market share of 44% whereas product 2 is least preferred by the individuals. Product 4 which we intend to launch has managed to achieve the second highest market share at 28%.
+Product 1 which consists of an Android operating system, fingerprint unlock, a 64 GB storage, and a price range of $500 - $1000 is the most preferred. It has a market share of 44% whereas product 2 is least preferred by the individuals. Product 4 which we intend to launch has managed to achieve the second highest market share at 28%.  
 
-• **What if scenario** – While playing with product 4 which is to be launched and running the analysis with different factor combinations, we found that offering the following configurations to our target customers would increase the market share of Product 4 from 28% to 33%:
-1. iOS operating system
-2. Fingerprint unlock
-3. Price less than $500
-4. 256GB storage space
+## What if scenario
+While playing with product 4 which is to be launched and running the analysis with different factor combinations, we found that offering the following configurations to our target customers would increase the market share of Product 4 from 28% to 33%:  
+1. iOS operating system  
+2. Fingerprint unlock  
+3. Price less than $500  
+4. 256GB storage space  
 
 ![alt text](https://github.com/rashesh2308/ConjointAnalysis/blob/main/images/Screen%20Shot%202021-03-05%20at%2011.24.37%20AM.png)
   
-  After changing the price factor to less than $500 for product 4, the third individual started preferring product 4 and in the same way, many of the individuals ( shown in the excel sheet of Market Simulation) selected product 4 which led to an increase in its market share to 33%.
+ After changing the price factor to less than $500 for product 4, the third individual started preferring product 4 and in the same way, many of the individuals ( shown in the excel sheet of Market Simulation) selected product 4 which led to an increase in its market share to 33%.  
