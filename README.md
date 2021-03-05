@@ -57,6 +57,10 @@ While playing with product 4 which is to be launched and running the analysis wi
 3. Price less than $500  
 4. 256GB storage space  
 
+![alt text](https://github.com/rashesh2308/ConjointAnalysis/blob/main/images/Screen%20Shot%202021-03-05%20at%2011.37.08%20AM.png)
+
+Before running the “what-if analysis” the majority number of individuals preferred product one with a market share of 44%. You can see in the tables below, the results of the first five individuals and the product they prefer before and after the what-if analysis.  
+
 ![alt text](https://github.com/rashesh2308/ConjointAnalysis/blob/main/images/Screen%20Shot%202021-03-05%20at%2011.24.37%20AM.png)
   
  After changing the price factor to less than $500 for product 4, the third individual started preferring product 4 and in the same way, many of the individuals ( shown in the excel sheet of Market Simulation) selected product 4 which led to an increase in its market share to 33%.  
